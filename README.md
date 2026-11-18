@@ -8,4 +8,4 @@ Static bilingual website (Arabic `index.html`, English `en.html`).
 
 Hosted on GitHub Pages: Settings → Pages → Deploy from branch `main`, folder `/ (root)`.
 
-Live test URL: https://minshaawy.github.io/Haitham/
+Live: https://fiziomedix.com/ (custom domain via CNAME)
