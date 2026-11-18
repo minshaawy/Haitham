@@ -70,6 +70,11 @@ h1,h2,h3{font-family:var(--head);line-height:1.35;margin:0}
 .hero h1 small{display:block;font-size:.42em;font-weight:600;color:var(--teal);margin-bottom:12px;letter-spacing:0}
 .hero p.lead{font-size:clamp(17px,1.6vw,19.5px);color:rgba(255,255,255,.72);max-width:520px;margin:0 0 36px}
 .hero-cta{display:flex;flex-wrap:wrap;gap:14px}
+.rating{display:inline-flex;align-items:center;gap:8px;margin-top:26px;padding:8px 16px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);color:rgba(255,255,255,.75);font-size:14.5px;transition:background .2s}
+.rating:hover{background:rgba(255,255,255,.12)}
+.rating b{color:#fff;font-family:var(--head);font-size:15.5px}
+.stars{color:#fbbc04;letter-spacing:1px;font-size:15px}
+.clinic-card .clinic-rating{display:block;font-size:13px;color:var(--muted);margin-top:4px}
 .hero-photo{position:relative;align-self:end;height:100%;display:flex;align-items:flex-end;justify-content:center}
 .hero-photo img{position:relative;z-index:1;width:100%;max-width:560px;height:auto;max-height:calc(min(100vh,900px) - 96px);object-fit:cover;object-position:top center;
   -webkit-mask-image:linear-gradient(to right,transparent 0,#000 16%,#000 84%,transparent 100%),linear-gradient(to top,transparent 0,#000 18%);
@@ -222,6 +227,7 @@ html[dir="rtl"] .lb-next svg{transform:scaleX(-1)}
 .clinic-card img{width:116px;height:auto;flex:none}
 .clinic-card small{display:block;color:var(--muted);font-size:13px;line-height:1.5}
 .clinic-card b{display:block;font-family:var(--head);font-weight:600;font-size:15.5px;line-height:1.55;color:var(--navy)}
+.clinic-card .clinic-addr{display:block;font-size:13px;line-height:1.6;color:var(--muted);margin-top:2px}
 .clinic-card em{display:inline-flex;align-items:center;gap:6px;font-style:normal;font-size:13.5px;font-weight:600;color:var(--accent);margin-top:4px}
 .clinic-card em svg{width:16px;height:16px}
 .ltr{direction:ltr;unicode-bidi:isolate;display:inline-block}
