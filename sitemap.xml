@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://fiziomedix.com/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ar" href="https://fiziomedix.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://fiziomedix.com/en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fiziomedix.com/"/>
+    <image:image><image:loc>https://fiziomedix.com/images/hero.webp</image:loc><image:title>د. هيثم مصطفى يوسف — أخصائي علاج طبيعي وإصابات ملاعب</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/graduation.webp</image:loc><image:title>د. هيثم مصطفى في تخرجه من جامعة القاهرة</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/ultrasound.webp</image:loc><image:title>فحص بالسونار العضلي الحركي</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/01-gym.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/02-room-logo.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/03-gym-cardio.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/04-room-private.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/05-exercise-tools.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/06-gym-entrance.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/07-room-device.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/08-device-cart.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/09-device-use.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/10-device-1.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/11-device-2.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
+    <image:image><image:loc>https://fiziomedix.com/images/center/12-device-3.webp</image:loc><image:title>مركز Fizio Medix — ٦ أكتوبر</image:title></image:image>
   </url>
   <url>
     <loc>https://fiziomedix.com/en.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ar" href="https://fiziomedix.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://fiziomedix.com/en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fiziomedix.com/"/>
   </url>
 </urlset>

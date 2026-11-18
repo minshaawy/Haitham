@@ -85,7 +85,7 @@ h1,h2,h3{font-family:var(--head);line-height:1.35;margin:0}
 .strip-item + .strip-item{border-inline-start:1px solid var(--line)}
 .icon{width:48px;height:48px;border-radius:14px;background:var(--accent-soft);color:var(--accent);display:grid;place-items:center;flex:none}
 .icon svg{width:24px;height:24px}
-.strip-item h3{font-size:17px;font-weight:700;margin-bottom:4px}
+.strip-item h2{font-size:17px;font-weight:700;margin-bottom:4px}
 .strip-item p{margin:0;color:var(--muted);font-size:15px;line-height:1.7}
 
 section{scroll-margin-top:80px}
