@@ -220,6 +220,7 @@ html[dir="rtl"] .lb-next svg{transform:scaleX(-1)}
 .contact-list li{display:flex;gap:14px;align-items:flex-start}
 .contact-list .icon{background:rgba(255,255,255,.14);color:#fff;width:44px;height:44px}
 .contact-list small{display:block;color:rgba(255,255,255,.7);font-size:13.5px;line-height:1.5}
+.contact-list .closed-day{display:block;font-size:13.5px;color:rgba(255,255,255,.7);margin-top:2px}
 .contact-list b{font-weight:600;font-size:16px}
 .contact-list a:hover{text-decoration:underline}
 .clinic-card{display:flex;align-items:center;gap:16px;background:#fff;color:var(--text);border-radius:18px;padding-block:14px;padding-inline:14px 18px;box-shadow:0 10px 24px -12px rgba(0,0,0,.35);transition:transform .2s}
